@@ -1,0 +1,49 @@
+.loginnav{
+    border: 1px solid;
+    margin-left: 15px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.4);
+    border: none;
+}
+.loginnav a{
+    text-decoration: none;
+}
+.logo{
+    width: 10%;
+    height: 5%;
+    margin: 10px;
+}
+.form-control .me-2{
+    width: 50%;
+}
+.slide{
+    margin-bottom: 5%;
+}
+.card-group{
+    margin:10px;
+
+}
+.card{
+    margin: 10px;
+}
+
+.h2 span {
+    color: #fb6b26;
+}
+.a{
+    margin-top: 5%;
+
+}
+.h2 a{
+    text-decoration: none;
+    margin-left:25px;
+   
+}
+.tdduan{
+    margin-left: 25px;
+} 
+.mb-4 a{
+    text-decoration: none;
+
+}
+
